@@ -7,9 +7,8 @@ Gem::Specification.new do |spec|
   spec.name          = "latinverb_irregular_imperatives_retriever"
   spec.version       = LatinverbIrregularImperativesRetriever::VERSION
   spec.authors       = ["Steven G. Harms"]
-  spec.email         = ["steven@devbootcamp.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.email         = ["steven.harms@gmail.com"]
+  spec.summary       = %q{Lookup imperatives from Linguistics::Latin-defined collection of irregulars}
   spec.homepage      = ""
   spec.license       = "MIT"
 
